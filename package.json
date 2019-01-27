@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "download-file": "^0.1.5"
+    "download-file": "^0.1.5",
+    "jimp": "^0.6.0",
+    "loadash": "^1.0.0",
+    "lodash": "^4.17.11"
   }
 }

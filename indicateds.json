@@ -1,0 +1,377 @@
+[
+    {
+        "id": 1,
+        "name": "A Star Is Born",
+        "feature_id": null
+    },
+    {
+        "id": 2,
+        "name": "BlacKkKlansman",
+        "feature_id": null
+    },
+    {
+        "id": 3,
+        "name": "Black Panther",
+        "feature_id": null
+    },
+    {
+        "id": 4,
+        "name": "Bohemian Rhapsody",
+        "feature_id": null
+    },
+    {
+        "id": 5,
+        "name": "Green Book",
+        "feature_id": null
+    },
+    {
+        "id": 6,
+        "name": "Roma",
+        "feature_id": null
+    },
+    {
+        "id": 7,
+        "name": "The Favourite",
+        "feature_id": null
+    },
+    {
+        "id": 8,
+        "name": "Vice",
+        "feature_id": null
+    },
+    {
+        "id": 9,
+        "name": "Bradley Cooper",
+        "feature_id": null
+    },
+    {
+        "id": 10,
+        "name": "Christian Bale",
+        "feature_id": null
+    },
+    {
+        "id": 11,
+        "name": "Rami Malek",
+        "feature_id": null
+    },
+    {
+        "id": 12,
+        "name": "Viggo Mortensen",
+        "feature_id": null
+    },
+    {
+        "id": 13,
+        "name": "Willem Dafoe",
+        "feature_id": null
+    },
+    {
+        "id": 14,
+        "name": "Glenn Close",
+        "feature_id": null
+    },
+    {
+        "id": 15,
+        "name": "Lady Gaga",
+        "feature_id": null
+    },
+    {
+        "id": 16,
+        "name": "Melissa McCarthy",
+        "feature_id": null
+    },
+    {
+        "id": 17,
+        "name": "Olivia Colman",
+        "feature_id": null
+    },
+    {
+        "id": 18,
+        "name": "Yalitza Aparicio",
+        "feature_id": null
+    },
+    {
+        "id": 19,
+        "name": "Adam Driver",
+        "feature_id": null
+    },
+    {
+        "id": 20,
+        "name": "Mahershala Ali",
+        "feature_id": null
+    },
+    {
+        "id": 21,
+        "name": "Richard E. Grant",
+        "feature_id": null
+    },
+    {
+        "id": 22,
+        "name": "Sam Elliott",
+        "feature_id": null
+    },
+    {
+        "id": 23,
+        "name": "Sam Rockwell",
+        "feature_id": null
+    },
+    {
+        "id": 24,
+        "name": "Amy Adams",
+        "feature_id": null
+    },
+    {
+        "id": 25,
+        "name": "Emma Stone",
+        "feature_id": null
+    },
+    {
+        "id": 26,
+        "name": "Marina de Tavira",
+        "feature_id": null
+    },
+    {
+        "id": 27,
+        "name": "Rachel Weisz",
+        "feature_id": null
+    },
+    {
+        "id": 28,
+        "name": "Regina King",
+        "feature_id": null
+    },
+    {
+        "id": 29,
+        "name": "Adam McKay",
+        "feature_id": null
+    },
+    {
+        "id": 30,
+        "name": "Alfonso Cuarón",
+        "feature_id": null
+    },
+    {
+        "id": 31,
+        "name": "Pawel Pawlikowski",
+        "feature_id": null
+    },
+    {
+        "id": 32,
+        "name": "Spike Lee",
+        "feature_id": null
+    },
+    {
+        "id": 33,
+        "name": "Yorgos Lanthimos",
+        "feature_id": null
+    },
+    {
+        "id": 34,
+        "name": "First Reformed",
+        "feature_id": null
+    },
+    {
+        "id": 35,
+        "name": "Can You Ever Forgive Me?",
+        "feature_id": null
+    },
+    {
+        "id": 36,
+        "name": "If Beale Street Could Talk",
+        "feature_id": null
+    },
+    {
+        "id": 37,
+        "name": "The Ballad of Buster Scruggs",
+        "feature_id": null
+    },
+    {
+        "id": 38,
+        "name": "Cold War",
+        "feature_id": null
+    },
+    {
+        "id": 39,
+        "name": "Nunca Deixes de Olhar",
+        "feature_id": null
+    },
+    {
+        "id": 40,
+        "name": "First Man",
+        "feature_id": null
+    },
+    {
+        "id": 41,
+        "name": "Mary Poppins Returns",
+        "feature_id": null
+    },
+    {
+        "id": 42,
+        "name": "Mary Queen of Scots",
+        "feature_id": null
+    },
+    {
+        "id": 43,
+        "name": "Border",
+        "feature_id": null
+    },
+    {
+        "id": 44,
+        "name": "Isle of Dogs",
+        "feature_id": null
+    },
+    {
+        "id": 45,
+        "name": "RBG",
+        "feature_id": null
+    },
+    {
+        "id": 46,
+        "name": "A Quiet Place",
+        "feature_id": null
+    },
+    {
+        "id": 47,
+        "name": "Avengers: Infinity War",
+        "feature_id": null
+    },
+    {
+        "id": 48,
+        "name": "Christopher Robin",
+        "feature_id": null
+    },
+    {
+        "id": 49,
+        "name": "Ready Player One",
+        "feature_id": null
+    },
+    {
+        "id": 50,
+        "name": "Solo: A Star Wars Story",
+        "feature_id": null
+    },
+    {
+        "id": 51,
+        "name": "Free Solo",
+        "feature_id": null
+    },
+    {
+        "id": 52,
+        "name": "Hale County This Morning, This Evening",
+        "feature_id": null
+    },
+    {
+        "id": 53,
+        "name": "Minding the Gap",
+        "feature_id": null
+    },
+    {
+        "id": 54,
+        "name": "Of Fathers and Sons",
+        "feature_id": null
+    },
+    {
+        "id": 55,
+        "name": "A Night at the Garden",
+        "feature_id": null
+    },
+    {
+        "id": 56,
+        "name": "Black Sheep",
+        "feature_id": null
+    },
+    {
+        "id": 57,
+        "name": "End Game",
+        "feature_id": null
+    },
+    {
+        "id": 58,
+        "name": "LIFEBOAT",
+        "feature_id": null
+    },
+    {
+        "id": 59,
+        "name": "Period. End of Sentence.",
+        "feature_id": null
+    },
+    {
+        "id": 60,
+        "name": "Incredibles 2",
+        "feature_id": null
+    },
+    {
+        "id": 61,
+        "name": "Mirai",
+        "feature_id": null
+    },
+    {
+        "id": 62,
+        "name": "Ralph Breaks the Internet",
+        "feature_id": null
+    },
+    {
+        "id": 63,
+        "name": "Spider-Man: Into the Spider-Verse",
+        "feature_id": null
+    },
+    {
+        "id": 64,
+        "name": "Animal Behaviour",
+        "feature_id": null
+    },
+    {
+        "id": 65,
+        "name": "Bao",
+        "feature_id": null
+    },
+    {
+        "id": 66,
+        "name": "Late Afternoon",
+        "feature_id": null
+    },
+    {
+        "id": 67,
+        "name": "One Small Step",
+        "feature_id": null
+    },
+    {
+        "id": 68,
+        "name": "Weekends",
+        "feature_id": null
+    },
+    {
+        "id": 69,
+        "name": "Detainment",
+        "feature_id": null
+    },
+    {
+        "id": 70,
+        "name": "Fauve",
+        "feature_id": null
+    },
+    {
+        "id": 71,
+        "name": "Marguerite",
+        "feature_id": null
+    },
+    {
+        "id": 72,
+        "name": "Mother",
+        "feature_id": null
+    },
+    {
+        "id": 73,
+        "name": "Skin",
+        "feature_id": null
+    },
+    {
+        "id": 74,
+        "name": "Cafarnaum",
+        "feature_id": null
+    },
+    {
+        "id": 75,
+        "name": "Shoplifters",
+        "feature_id": null
+    }
+]
